@@ -65,7 +65,7 @@ Aşağıdaki yöntemlerden birini kullanın:
 5. "Muted words" / "Sessize alınmış kelimeler" seçin
 
 ### Adım 3: Script'i Çalıştırın
-1. Muted keywords sayfasında olduğunuzdan emin olun
+1. Muted keywords sayfasında olduğunuzdan emin olun [https://x.com/settings/muted_keywords](https://x.com/settings/muted_keywords) 
 2. Script otomatik olarak çalışmaya başlayacak
 3. Onay dialogunda **"Tamam"** veya **"OK"** butonuna tıklayın
 4. İşlemin tamamlanmasını bekleyin (yaklaşık 2-3 dakika)
